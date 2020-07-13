@@ -1,3 +1,3 @@
 ![](hey.gif)
 
-![](Twitter.png) @ResTheDev
+![](Twitter.png =32x32) @ResTheDev
