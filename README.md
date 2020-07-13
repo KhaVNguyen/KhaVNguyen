@@ -1,3 +1,3 @@
 ![](hey.gif)
 
-![](twitter.png) @ResTheDev
+![](Twitter.png) @ResTheDev
